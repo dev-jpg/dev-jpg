@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything which interests me
 - 📫 How to reach me devdanu2005@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: nothing fun 
+- ⚡ Fun fact: nothing funny
 
 <!---
 dev-jpg/dev-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
